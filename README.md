@@ -43,9 +43,9 @@ I'm a passionate student from 🌏 China.
 ## 🏆 Personal Awards
 
 - 🥇 [国家奖学金]（2024）  
-- 🥈 计算机博弈大赛， 国家级二等奖（2025）  
+- 🥈 计算机博弈大赛， 国家级一等奖（2025）  
 - 🏅 中国大学生数学竞赛， 国家级三等奖（2025）  
-- 📚 美国大学生数学建模竞赛， Honorable Mention(2025) 
+- 📚 美国大学生数学建模竞赛， Honorable Mention (2025) 
 
 ---
 
