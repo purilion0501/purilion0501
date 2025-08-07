@@ -33,9 +33,9 @@ I'm a passionate student from 🌏 China.
 
 ## 📈 GitHub Stats
 
-![Zhang-Yu-Lin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhang-Yu-Lin&show_icons=true&theme=default)
+![Zhang-Yu-Lin's GitHub stats](https://github-readme-stats.vercel.app/api?username=purilion0501&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-Yu-Lin&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purilion0501&layout=compact)
 
 ---
 
