@@ -4,7 +4,6 @@
 I'm a passionate student from 🌏 China.  
 我热衷于探索技术、构建项目，并通过代码让想法变成现实。\
 毕业后，我会将自己的学习资料和做过的lab代码以及课程设计代码上传到我的github主页中。\
-You can connect me through qq:352428365.
 
 ---
 
